@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Abdulsamed Hamdy</h1>
 <p align="center">
-  <a href="https://www.linkedin.com/in/abdulsamed1?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
+  <a href="https://www.linkedin.com/in/abdulsamed1" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Abdulsamed%20Hamdy-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </p>
