@@ -5,7 +5,7 @@
   </a>
 </p>
 <p align="center">
-  <strong>Blockchain Developer | Smart Contract Engineer | Software Engineer | Blockchain Security Specialist</strong>
+  <strong>Blockchain Developer | Smart Contract Engineer | Software Engineer | WEB 3</strong>
 </p>
 
 <br>
